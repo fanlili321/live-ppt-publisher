@@ -1,0 +1,4 @@
+interface:
+  display_name: "直播PPT发布"
+  short_description: "将直播PPT定稿文件归档飞书并发布为腾讯图片文档的完整流程"
+  default_prompt: "Use $live-ppt-publisher to publish finalized livestream PPT files to Feishu and Tencent Docs, then send me both links."
